@@ -1,0 +1,27 @@
+Font-Awesome
+图标字体库和CSS框架
+
+owl.carousel.min.js
+触摸屏旋转木马JQuery
+<!-- Important Owl stylesheet -->
+<link rel="stylesheet" href="owl-carousel/owl.carousel.css">
+  
+<!-- Default Theme -->
+<link rel="stylesheet" href="owl-carousel/owl.theme.css">
+  
+<!--  jQuery 1.7+  -->
+<script src="jquery-1.9.1.min.js"></script>
+  
+<!-- Include js plugin -->
+<script src="assets/owl-carousel/owl.carousel.js"></script> 
+
+
+waypoints.min.js
+捕获各种滚动事件
+
+jquery.masonry.min.js
+瀑布流插件
+
+jquery-scrollTo
+滚动到指定位置
+
